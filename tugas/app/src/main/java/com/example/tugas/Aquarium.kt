@@ -1,7 +1,5 @@
 package com.example.tugas
 
-import java.util.Random
-
 /*fun main(args: Array<String>) {
     println("Hello, World")
 
